@@ -91,7 +91,7 @@ We used our lecture notes, lecture videos, help from Jesse Wright (tutor) and th
 
 https://saturncloud.io/blog/how-to-split-one-column-into-multiple-columns-in-pandas-dataframe/#:~:text=split()%20Method,strings%20b
 
-
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.html
 
 
 
