@@ -84,7 +84,9 @@ The instructions for this mini project are divided into the following subsection
 
 8. Verify that each table has the correct data by running a SELECT statement for each.
 
+## Sources cited:
 
+# 
 
 
 
