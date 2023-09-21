@@ -84,9 +84,12 @@ The instructions for this mini project are divided into the following subsection
 
 8. Verify that each table has the correct data by running a SELECT statement for each.
 
+
 ## Sources cited:
 
-# 
+We used our lecture notes, lecture videos, help from Jesse Wright (tutor) and the URL(s) below for this project
+
+https://saturncloud.io/blog/how-to-split-one-column-into-multiple-columns-in-pandas-dataframe/#:~:text=split()%20Method,strings%20b
 
 
 
