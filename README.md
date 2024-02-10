@@ -1,4 +1,4 @@
-# Crowdfunding ETL Project
+# Crowdfunding ETL
 ![crowdfucnding](https://github.com/cbake105/Crowdfunding_ETL/assets/133677209/4933c9b8-5033-4d9b-9a0e-9067b05bcf76)
 
 
